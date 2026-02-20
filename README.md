@@ -2,6 +2,7 @@ Hi there! 👋
  Developer | Tech Enthusiast | Problem Solver<br/>
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=joehack1&color=green)
+<br/>
 ✨ 24 | Applied Computer Science Graduate</br>
 💡 Passionate about app development, AI, and game design</br>
 
@@ -30,7 +31,9 @@ https://www.instagram.com/loter.joe/</br>
 ### ✍️ Smart Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=joehack1&color=green)
+<br/>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/emmajoeloter@gmail.com) 
