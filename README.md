@@ -1,7 +1,7 @@
 Hi there! 👋
  Developer | Tech Enthusiast | Problem Solver<br/>
----
-[![](https://visitcount.itsvg.in/api?id=joehack1&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=joehack1&color=green)
 ✨ 24 | Applied Computer Science Graduate</br>
 💡 Passionate about app development, AI, and game design</br>
 
