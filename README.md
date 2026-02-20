@@ -1,6 +1,7 @@
 Hi there! 👋
-🚀 Polyglot Developer | Tech Enthusiast | Problem Solver<br/>
-
+ Developer | Tech Enthusiast | Problem Solver<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=joehack1&icon=0&color=0)](https://visitcount.itsvg.in)
 ✨ 24 | Applied Computer Science Graduate</br>
 💡 Passionate about app development, AI, and game design</br>
 
@@ -29,8 +30,7 @@ https://www.instagram.com/loter.joe/</br>
 ### ✍️ Smart Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=joehack1&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/emmajoeloter@gmail.com) 
