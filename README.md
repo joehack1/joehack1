@@ -3,7 +3,7 @@ Hi there! 👋
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=joehack1&color=green)
 <br/>
-✨ 24 | Applied Computer Science Graduate</br>
+ Applied Computer Science Graduate</br>
 💡 Passionate about app development, AI, and game design</br>
 
 Tech Stack & Expertise:</br>
