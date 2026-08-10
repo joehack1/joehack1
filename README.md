@@ -32,7 +32,7 @@
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://codepen.io/@joel-loter"><img src="https://skillicons.dev/icons?i=codepen" /></a>
+  <a href="https://codepen.io/Joel-Loter"><img src="https://skillicons.dev/icons?i=codepen" /></a>
   <a href="https://twitter.com/@joe1oter"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://kaggle.com/joelloter"><img src="https://skillicons.dev/icons?i=kaggle" /></a>
   <a href="https://instagram.com/loter.joe"><img src="https://skillicons.dev/icons?i=instagram" /></a>
